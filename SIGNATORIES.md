@@ -13,3 +13,4 @@ One line per person or organisation. Real names only.
 ## List
 
 - Franz Mozzi, initiator, [franzmozzi.github.io](https://franzmozzi.github.io/)
+- Pieris Kalligeros, PhD Student, Archimedes AI, [pierisk.com](https://pierisk.com)
